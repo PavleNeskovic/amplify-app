@@ -1,0 +1,19 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-app-20190326134006-authRole",
+            "UnauthRoleArn": "arn:aws:iam::880180807928:role/amplify-app-20190326134006-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::880180807928:role/amplify-app-20190326134006-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-app-20190326134006-deployment",
+            "UnauthRoleName": "amplify-app-20190326134006-unauthRole",
+            "StackName": "amplify-app-20190326134006",
+            "StackId": "arn:aws:cloudformation:eu-west-1:880180807928:stack/amplify-app-20190326134006/49370e40-4fc4-11e9-b797-06e26620325a"
+        },
+        "categories": {
+            "auth": {
+                "cognitoe57e9943": {}
+            }
+        }
+    }
+}
